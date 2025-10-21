@@ -11,3 +11,14 @@ This AI-powered system generates YouTube scripts using structured prompt enginee
 
 ## 🔧 Built by
 Nouman Shehzad – AI Workflow & Automation Engineer
+## 📁 Project Structure
+- system_prompt.txt — core AI system
+- prompt.txt — quick basic prompt
+- workflow.md — how to use
+- examples/ — sample titles
+- case-study-template.md — evidence template
+
+## 📌 Roadmap
+- Add multi-language presets
+- Add export to Notion/Docs
+- Add thumbnail prompt pack
